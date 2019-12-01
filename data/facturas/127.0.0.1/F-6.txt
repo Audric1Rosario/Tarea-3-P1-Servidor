@@ -1,0 +1,13 @@
+******Fábrica de quesos******
+
+Factura  : F-6
+Cuenta   : Audric
+Fecha    : 01-12-2019
+Dirección: asdf
+Teléfono : (240) 000-0000
+
+Quesos comprados:
+Tipo	 Volumen (cm^3)	Costo
+Esfera	 33,51		34,51$
+
+Monto a pagar: 34,51$.
